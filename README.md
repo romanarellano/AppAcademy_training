@@ -1,2 +1,2 @@
-AppAcademy_training
+Ruby exercises
 ===================
